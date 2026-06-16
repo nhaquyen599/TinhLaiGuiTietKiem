@@ -1,6 +1,7 @@
 import streamlit as st
-st.image("IMG_9051.jpeg")
+
 # Tiêu đề ứng dụng
+st.image("IMG_9051.jpeg")
 st.title("APP TíNH TIỀN GỬI TIẾT KIỆM ĐỀ TÀI 6_NGUYENNGOCNHAQUYEN")
 
 # Nhập dữ liệu
